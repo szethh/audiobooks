@@ -1,1 +1,5 @@
-/testing/
+/testing
+/venv
+/.idea
+/.pytest_cache
+/test/test_data
